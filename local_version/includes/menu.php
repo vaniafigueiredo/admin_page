@@ -8,7 +8,7 @@
         <nav class="sidebar-nav">
             <ul id="sidebarnav">
                 <li>
-                    <a href="index.php?page=dashboard" class="waves-effect"><i class="fa fa-clock-o m-r-10" aria-hidden="true"></i>Dashboard</a>
+                    <a href="index.php?page=overview" class="waves-effect"><i class="fa fa-info-circle m-r-10" aria-hidden="true"></i>Overview</a>
                 </li>
                 <li>
                     <a href="index.php?page=profile" class="waves-effect"><i class="fa fa-user m-r-10" aria-hidden="true"></i>Profile</a>
@@ -26,7 +26,8 @@
                     <a href="index.php?page=form" class="waves-effect"><i class="fa fa-columns m-r-10" aria-hidden="true"></i>Send form to client</a>
                 </li>
                 <li>
-                    <a href="index.php?page=overview" class="waves-effect"><i class="fa fa-info-circle m-r-10" aria-hidden="true"></i>Overview</a>
+                    <a href="index.php?page=dashboard" class="waves-effect"><i class="fa fa-clock-o m-r-10" aria-hidden="true"></i>Dashboard</a>
+
                 </li>
             </ul>
             <!--<div class="text-center m-t-30">-->
