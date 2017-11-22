@@ -36,7 +36,7 @@ switch ($page) {
         include('pages/overview.php');
         break;
 }
-
+//Something here Vania
 include('includes/footer.php');
 
 //Hello Im in (Ruud)

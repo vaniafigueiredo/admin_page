@@ -6490,13 +6490,13 @@ button.close {
     display: table;
     content: " ";
 }
-body{
-    background: url("../images/JUGO-.jpg") no-repeat center center fixed;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover;
-}
+/*body{*/
+    /*background: url("../images/team.jpg") no-repeat center center fixed;*/
+    /*-webkit-background-size: cover;*/
+    /*-moz-background-size: cover;*/
+    /*-o-background-size: cover;*/
+    /*background-size: cover;*/
+/*}*/
 .clearfix:after,
 .dl-horizontal dd:after,
 .container:after,
