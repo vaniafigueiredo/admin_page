@@ -40,3 +40,4 @@ switch ($page) {
 include('includes/footer.php');
 
 //Hello Im in (Ruud)
+//Hello Im in (Classen)
